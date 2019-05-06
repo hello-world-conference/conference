@@ -14,7 +14,7 @@ Pour cette première édition, nous souhaitons proposer une conférence en mode 
 
 - Elle se déroulera sur une journée complète le **vendredi 28 juin dans les locaux de KNP labs** (centre de Nantes).
 
-- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via Eventbrite.
+- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-61415374037).
 
 - Toutes les personnes peuvent proposer un atelier en soumettant une issue sur ce dépôt GitHub. Le programme se constituera en fonction des propositions et des votes pour les propositions.
 
