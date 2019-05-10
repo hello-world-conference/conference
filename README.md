@@ -22,7 +22,7 @@ Pour cette première édition, nous souhaitons proposer une conférence en mode 
 
 ### Proposition de sessions
 
-Hello world est une conférence "ouverte" ou toutes les personnes peuvent proposer une session.
+Hello world est une conférence "ouverte" où toutes les personnes peuvent proposer une session.
 
 Pour se faire vous devez [créer une session par le biais d'une "issue"](https://github.com/hello-world-conference/conference/issues).
 
@@ -30,7 +30,7 @@ Cette "issue" devra donner plusieurs informations :
 
 - Un titre, il s'agira du titre de la session
 
-- Une description, il s'agira du corps de texte. Ne pas hésiter pas à mentionner les besoins logistiques (matériel, nombre de participants maximum, etc.) ou tout autres remarques.
+- Une description, il s'agira du corps de texte. Ne pas hésiter à mentionner les besoins logistiques (matériel, nombre de participants maximum, etc.) ou tout autres remarques.
 
 - Des labels décrivant la session, il en faut 3. "type" pour décrire le type de session, "level" pour décrire le niveau des participants et "refinement" pour indiquer si la session est rodée ou si il s'agit de quelque chose de plus exploratoire ; [leurs descriptions sont précisées](https://github.com/hello-world-conference/conference/labels).
 
