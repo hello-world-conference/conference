@@ -32,7 +32,7 @@ Cette "issue" devra donner plusieurs informations :
 
 - Une description, il s'agira du corps de texte. Ne pas hésiter à mentionner les besoins logistiques (matériel, nombre de participants maximum, etc.) ou tout autres remarques.
 
-- Des labels décrivant la session, il en faut 3. "type" pour décrire le type de session, "level" pour décrire le niveau des participants et "refinement" pour indiquer si la session est rodée ou si il s'agit de quelque chose de plus exploratoire ; [leurs descriptions sont précisées](https://github.com/hello-world-conference/conference/labels).
+- Des labels décrivant la session, il en faut 3. "type" pour décrire le type de session, "level" pour décrire le niveau des participants et "refinement" pour indiquer si la session est rodée ou si il s'agit de quelque chose de plus exploratoire ; [leurs descriptions sont précisées](https://github.com/hello-world-conference/conference/labels). ⚠️ GitHub ne vous laissera pas ajouter par vous même les labels, seuls les contributeurs peuvent le faire. Nous vous proposons d'ajouter les labels à la toute fin de votre description (par exemple "level : intermediate") puis nous nous chargerons d'appliquer les labels.
 
 ### Sélection de sessions
 
