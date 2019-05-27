@@ -24,7 +24,7 @@ Pour cette première édition, nous souhaitons proposer une conférence en mode 
 
 Hello world est une conférence "ouverte" où toutes les personnes peuvent proposer une session.
 
-Pour se faire vous devez [créer une session par le biais d'une "issue"](https://github.com/hello-world-conference/conference/issues).
+Pour ce faire vous devez [créer une session par le biais d'une "issue"](https://github.com/hello-world-conference/conference/issues).
 
 Cette "issue" devra donner plusieurs informations :
 
