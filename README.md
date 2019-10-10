@@ -34,6 +34,8 @@ Cette "issue" devra donner plusieurs informations :
 
 - Des labels décrivant la session, il en faut 3. "type" pour décrire le type de session, "level" pour décrire le niveau des participants et "refinement" pour indiquer si la session est rodée ou si il s'agit de quelque chose de plus exploratoire ; [leurs descriptions sont précisées](https://github.com/hello-world-conference/conference/labels). ⚠️ GitHub ne vous laissera pas ajouter par vous même les labels, seuls les contributeurs peuvent le faire. Nous vous proposons d'ajouter les labels à la toute fin de votre description (par exemple "level : intermediate") puis nous nous chargerons d'appliquer les labels.
 
+Toutes les propositions de session d'une conférence passée sont fermées par défaut. Si vous souhaitez proposer à nouveau cette session pour une prochaine édition, il suffit de nous laisser un commentaire sur celle-ci en indiquant que vous êtes toujours motivé⋅e pour la proposer à nouveau.
+
 ### Sélection de sessions
 
 Hello world est une conférence "ouverte" ou toutes les personnes peuvent donner un avis sur les sessions qu'elles aimeraient faire.
