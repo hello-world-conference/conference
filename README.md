@@ -8,13 +8,13 @@ Cela concerne tous les postes impliqués sur la réalisation de logiciels, tels 
 
 Les échanges se feront principalement sous forme d'ateliers ou de forums de discussion avec un nombre limité de participants. Cette démarche doit nous permettre de proposer des **formats qualitatifs axés sur la pratique**, impliquant ainsi tous les participants pour favoriser le partage des savoirs et l'apprentissage.
 
-## Hello world 1.0
+## Hello world 2.0
 
-Pour cette première édition, nous souhaitons proposer une conférence en mode "galop d'essai" pour tester le concept de la conférence sans se lancer dans des démarches conséquentes, voici les informations principales à retenir sur la conférence :
+Pour cette deuxième édition, nous reprenons les mêmes principes que lors de la première, c'est à dire sans se lancer dans des démarches conséquentes. Nous laissons toujours les futurs participants proposer des sessions par le biais d'issues, par contre nous voulons simplifier le système de votes. Voici les informations principales à retenir sur la conférence :
 
-- Elle se déroulera sur une journée complète le **vendredi 28 juin dans les locaux de KNP labs** (centre de Nantes).
+- Elle se déroulera sur une journée complète le **vendredi 15 novembre dans des locaux restant encore à confirmer** (mais très proche de Nantes).
 
-- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-61415374037).
+- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.com/e/hello-world-2-tickets-73943504011).
 
 - Toutes les personnes peuvent proposer un atelier en soumettant une issue sur ce dépôt GitHub. Le programme se constituera en fonction des propositions et des votes pour les propositions.
 
@@ -36,16 +36,8 @@ Cette "issue" devra donner plusieurs informations :
 
 ### Sélection de sessions
 
-Hello world est une conférence "ouverte" ou toutes les personnes peuvent donner un avis sur les sessions qu'ils aimeraient faire ou pas.
+Hello world est une conférence "ouverte" ou toutes les personnes peuvent donner un avis sur les sessions qu'elles aimeraient faire.
 
 Pour se faire vous devez [donner un avis pour une session](https://github.com/hello-world-conference/conference/issues) décrite par une "issue".
 
-Vous avez plusieurs réactions possibles pour donner un avis sur une session :
-
-- 👍 Pouce en l'air, vous aimez cette session mais vous ne vous engagez pas à y aller en tant que particpant si elle a lieu.
-
-- 👎 Pouce en bas, vous êtes certain⋅e de ne pas aller à cette session en tant que particpant si elle a lieu.
-
-- ❤️ Coeur, vous adorez cette session et vous vous engagez à y aller en tant que particpant si elle a lieu.
-
-Même si cela à l'air négatif, ne pas hésiter à mettre des pouces en bas afin de faciliter la sélection.
+Une seule réaction possible ❤️ Coeur, vous souhaitez très fortement aller à cette session en tant que particpant si elle a lieu.
