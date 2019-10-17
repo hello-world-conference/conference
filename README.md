@@ -12,9 +12,9 @@ Les échanges se feront principalement sous forme d'ateliers ou de forums de dis
 
 Pour cette deuxième édition, nous reprenons les mêmes principes que lors de la première, c'est à dire sans se lancer dans des démarches conséquentes. Nous laissons toujours les futurs participants proposer des sessions par le biais d'issues, par contre nous voulons simplifier le système de votes. Voici les informations principales à retenir sur la conférence :
 
-- Elle se déroulera sur une journée complète le **vendredi 15 novembre dans des locaux restant encore à confirmer** (mais très proche de Nantes).
+- Elle se déroulera sur une journée complète le **vendredi 15 novembre** dans les locaux de KNP Labs (11 rue Kervegan 44000 Nantes).
 
-- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.com/e/hello-world-2-tickets-73943504011).
+- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-2-73943504011).
 
 - Toutes les personnes peuvent proposer un atelier en soumettant une issue sur ce dépôt GitHub. Le programme se constituera en fonction des propositions et des votes pour les propositions.
 
@@ -24,7 +24,7 @@ Pour cette deuxième édition, nous reprenons les mêmes principes que lors de l
 
 Hello world est une conférence "ouverte" où toutes les personnes peuvent proposer une session.
 
-Pour ce faire vous devez [créer une session par le biais d'une "issue"](https://github.com/hello-world-conference/conference/issues).
+Pour cela vous devez [créer une session par le biais d'une "issue"](https://github.com/hello-world-conference/conference/issues).
 
 Cette "issue" devra donner plusieurs informations :
 
