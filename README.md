@@ -42,4 +42,4 @@ Hello world est une conférence "ouverte" ou toutes les personnes peuvent donner
 
 Pour se faire vous devez [donner un avis pour une session](https://github.com/hello-world-conference/conference/issues) décrite par une "issue".
 
-Une seule réaction possible ❤️ Coeur, vous souhaitez très fortement aller à cette session en tant que particpant si elle a lieu.
+Une seule réaction possible ❤️ Coeur, vous souhaitez très fortement aller à cette session en tant que participant si elle a lieu.
