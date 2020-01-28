@@ -40,6 +40,6 @@ Toutes les propositions de session d'une conférence passée sont fermées par d
 
 Hello world est une conférence "ouverte" ou toutes les personnes peuvent donner un avis sur les sessions qu'elles aimeraient faire.
 
-Pour se faire vous devez [donner un avis pour une session](https://github.com/hello-world-conference/conference/issues) décrite par une "issue".
+Pour ce faire vous devez [donner un avis pour une session](https://github.com/hello-world-conference/conference/issues) décrite par une "issue".
 
 Une seule réaction possible ❤️ Coeur, vous souhaitez très fortement aller à cette session en tant que participant si elle a lieu.
