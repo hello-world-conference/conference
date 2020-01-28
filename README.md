@@ -8,13 +8,13 @@ Cela concerne tous les postes impliqués sur la réalisation de logiciels, tels 
 
 Les échanges se feront principalement sous forme d'ateliers ou de forums de discussion avec un nombre limité de participants. Cette démarche doit nous permettre de proposer des **formats qualitatifs axés sur la pratique**, impliquant ainsi tous les participants pour favoriser le partage des savoirs et l'apprentissage.
 
-## Hello world 2.0
+## Hello world 3.0
 
-Pour cette deuxième édition, nous reprenons les mêmes principes que lors de la première, c'est à dire sans se lancer dans des démarches conséquentes. Nous laissons toujours les futurs participants proposer des sessions par le biais d'issues, par contre nous voulons simplifier le système de votes. Voici les informations principales à retenir sur la conférence :
+Pour cette troisième édition, nous reprenons les mêmes principes que lors de la première, c'est à dire sans se lancer dans des démarches conséquentes. Nous laissons toujours les futurs participants proposer des sessions par le biais d'issues, par contre nous voulons simplifier le système de votes. Voici les informations principales à retenir sur la conférence :
 
-- Elle se déroulera sur une journée complète le **vendredi 15 novembre** dans les locaux de KNP Labs (11 rue Kervegan 44000 Nantes).
+- Elle se déroulera sur une journée complète le **jeudi 7 mai** dans les locaux de Palo IT (1 Rue Saint-Julien, 44000 Nantes).
 
-- Elle est **gratuite et limitée à 20 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-2-73943504011).
+- Elle est **gratuite et limitée à 25 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-3-91133939065).
 
 - Toutes les personnes peuvent proposer un atelier en soumettant une issue sur ce dépôt GitHub. Le programme se constituera en fonction des propositions et des votes pour les propositions.
 
